@@ -10,4 +10,4 @@ Syntax R
 
 Package : readxl, xlsx, tidyverse, factoextra, cluster
 
-[Publication](
+Medium Article : [Here](https://dewikinasih.medium.com/hierarchical-agglomerative-clustering-untuk-karakterisasi-provinsi-miskin-di-indonesia-dengan-9121f8e7afc7)
