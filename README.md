@@ -6,7 +6,7 @@ The aim is to see how the condition of poor province based on the variables in t
 .
 There is 1 province that categorized as extremely high poverty rate. That province has extremely low quality of education. But, in low poverty rate provinces, there is still high rate of unemployment whereas their quality of education is much higher than other clusters
 
-Syntax R
+[Syntax R](https://github.com/dewikinasih/Characteristics-Of-Poor-Province-in-Indonesia/blob/ddb3944f1ddf8fba65059509e0906c022ce2ba6e/Characteristic%20of%20Poor%20Province.R)
 
 Package : readxl, xlsx, tidyverse, factoextra, cluster
 
